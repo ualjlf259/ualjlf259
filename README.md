@@ -1,5 +1,3 @@
-<img width="885" height="832" alt="image" src="https://github.com/user-attachments/assets/d2a27a55-c637-41b9-8bd6-381c1b6c287e" /># Hola! 👋 Soy Jose Jesús López Fernández
-
 ### Estudiante de Ingeniería Informática 💻 | Ingeniero de software y redes 🚀
 
 <picture>
